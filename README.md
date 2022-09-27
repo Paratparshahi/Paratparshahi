@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pratik Kumar</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="35px" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"> I'm Pratik Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif" />
